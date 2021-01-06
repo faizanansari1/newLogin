@@ -1,0 +1,8 @@
+export const USER_LOADING = 'USER_LOADING';
+export const USER_SUCCESS = 'USER_SUCCESS';
+export const USER_FAILED = 'USER_FAILED';
+//User End
+
+export const USERPRO_LOADING = 'USERPRO_LOADING';
+export const USERPRO_SUCCESS = 'USERPRO_SUCCESS';
+export const USERPRO_FAILED = 'USERPRO_FAILED';
